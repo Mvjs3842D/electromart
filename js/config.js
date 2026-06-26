@@ -27,7 +27,7 @@ const CONFIG = {
   //     https://github.com/settings/tokens
   //  3. Fill in the values below
   github: {
-    token:  "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",
+    token:  "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",
     owner:  "Mvjs3842D",
     repo:   "electromart-images",
     branch: "main",
