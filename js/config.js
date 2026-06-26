@@ -27,9 +27,9 @@ const CONFIG = {
   //     https://github.com/settings/tokens
   //  3. Fill in the values below
   github: {
-    token:  "YOUR_GITHUB_PERSONAL_ACCESS_TOKEN",
-    owner:  "YOUR_GITHUB_USERNAME",
-    repo:   "YOUR_REPO_NAME",
+    token:  "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",
+    owner:  "Mvjs3842D",
+    repo:   "electromart-images",
     branch: "main",
     path:   "electromart-images"   // folder inside the repo
   }
