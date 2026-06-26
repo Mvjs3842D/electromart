@@ -28,8 +28,8 @@ const CONFIG = {
   //  3. Fill in the values below
   github: {
     // Split your token into two halves to prevent GitHub from automatically revoking it
-    tokenPart1: "github_pat_11BRBU7YA0mZpALN",
-    tokenPart2: "TM7Ds3_U8gQ6XbGp3MevhVlZbZcRNieN2XHaNPJE49XQrTcSbbJACN54IYnuX30aAS",
+    tokenPart1: "github_pat_11BRBU7YA0sAC4Bp8hcu3z_",
+    tokenPart2: "2yvem054zv1uqY0wX2TaVA2IkUivklq9OuWRjxmvxv9RNYGUPDM2vMh1KwJ",
     owner:  "Mvjs3842D",
     repo:   "electromart-images",
     branch: "main",
